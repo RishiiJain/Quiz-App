@@ -1,6 +1,8 @@
 # QuizApp
 We are introducing an innovative quiz application designed to streamline the assessment process for educators and students alike. This platform offers users the flexibility to engage in existing quizzes by logging in with student credentials or to create personalized quizzes by utilizing teacher credentials. 
 
+We have only uploaded the src folder here, rest of the node modules and JSON files can be easily installed using the instructions given below to launch React App
+
 Note:
 Some features of this app might not work as expected due to API changes or removal of API because we have used free and open-source API's for this app.
 Similarly, the login and sign-up might take a few minutes to work for a new data entry.
